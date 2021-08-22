@@ -1,0 +1,26 @@
+.aboutLinks, .projectLinks, .contactLinks { 
+    display:flex; 
+    justify-content: space-between; 
+    align-items: center; 
+}
+
+.aboutLinks {
+    margin: 0 35% 0 35%; 
+}
+
+.aboutLinks > a, .projectLinks > a, .contactLinks > a{  
+    box-shadow: 0 0px;
+}
+
+.projectLinks {
+    margin: 0 85% 0 0;
+}
+
+
+.contactLinks{
+    height: 250px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: column;
+}

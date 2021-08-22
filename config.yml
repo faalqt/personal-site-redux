@@ -1,0 +1,47 @@
+baseURL: 'gallant-goldberg-b0b25b.netlify.com'
+languageCode: 'en-us'
+theme: 'PaperMod'
+
+menu:
+    main:
+        - identifier: home
+          name: home
+          url: /
+          weight: 10
+        - identifier: about
+          name: about
+          url: /about/
+          weight: 20
+        - identifier: projects
+          name: projects
+          url: /projects/
+          weight: 30
+
+        - identifier: contact
+          name: contact
+          url: /contact/
+          weight: 40
+
+
+params:
+    disableThemeToggle: true
+    # ShowShareButtons: true
+    profileMode:
+        enabled: true
+        title: "Hey there, I'm Justin" # optional default will be site title
+        
+    socialIcons:
+        - name: "github"
+          url: "https://github.com/faalqt"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/jcampbell98/"
+
+  
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      xhtml: true
+
