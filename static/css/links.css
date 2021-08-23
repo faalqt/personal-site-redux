@@ -2,20 +2,20 @@
     display:flex; 
     justify-content: space-between; 
     align-items: center; 
+    width: 200px;
 }
 
-.aboutLinks {
-    margin: 0 35% 0 35%; 
+.projectLinks, .contactLinks{
+    width: 100px;
+}
+
+.aboutLinks{
+    margin: 0 auto;
 }
 
 .aboutLinks > a, .projectLinks > a, .contactLinks > a{  
     box-shadow: 0 0px;
 }
-
-.projectLinks {
-    margin: 0 85% 0 0;
-}
-
 
 .contactLinks{
     height: 250px;
