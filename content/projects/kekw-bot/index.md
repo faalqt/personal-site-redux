@@ -16,7 +16,7 @@ There's [this meme](https://www.youtube.com/watch?v=WDiB4rtp1qw) which got prett
 So for this project, I created a bot that mimics the [starboard function](https://docs.carl.gg/utilities/starboard/) from a very popular Discord Bot, CarlBot. However, instead of doing that with the star emoji, I do it with `kekw`. If a post recieves more than a defined amount of reactions of `kekw`, then it will archive that post in another channel.
 
 
-For example, here's a pictue posted by one of my guildmates: 
+For example, here's a picture posted by one of my guildmates: 
 
 ![Post in random channel](img/kekd_post.png#center)
 
