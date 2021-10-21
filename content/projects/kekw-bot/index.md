@@ -20,6 +20,6 @@ For example, here's a picture posted by one of my guildmates:
 
 ![Post in random channel](img/kekd_post.png#center)
 
-And since that post got past the threshhold of `kekw`'s, it get's posted in the kek-board channel:
+And since that post got past the threshhold of `kekw`'s, it gets posted in the kek-board channel:
 
 ![Gets posted to kek-board](img/kek_board_post.png#center)
