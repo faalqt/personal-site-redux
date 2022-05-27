@@ -3,7 +3,7 @@ title:
 ---
 <link rel="stylesheet" type="text/css" href="/css/links.css" />
 <div class="aboutLinks">
-    <a href="/data/Resume_JustinCampbell__Portfolio_.pdf" target="_blank"><img src="/icons/file-text.svg"></a>
+    <a href="/data/Resume_JustinCampbell_Portfolio.pdf" target="_blank"><img src="/icons/file-text.svg"></a>
     <a href="https://github.com/faalqt" target="_blank"><img src="/icons/github.svg"></a>
     <a href="https://www.linkedin.com/in/jcampbell98/" target="_blank"><img src="/icons/linkedin.svg"></a>
 </div>
